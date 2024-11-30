@@ -1,0 +1,8 @@
+body {
+    /* color: color-mix(in hsl, lime, black 20%); 
+    background: color-mix(in hsl, blueviolet, black 80%); */
+    background: blueviolet;
+    color: green;
+    min-height: 100svh;
+    width: 100%;
+}

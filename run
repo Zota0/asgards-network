@@ -1,0 +1,1 @@
+odin run . -file -out:serve.exe -o:size -debug
